@@ -3,16 +3,63 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Control.cs" caret="142" fromTop="5" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:P.cs" caret="301" fromTop="14" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:H2.cs" caret="185" fromTop="9" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:H3.cs" caret="238" fromTop="10" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:H4.cs" caret="251" fromTop="10" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:TD.cs" caret="13" fromTop="0" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:TR.cs" caret="160" fromTop="5" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Table.cs" caret="12" fromTop="0" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Strong.cs" caret="43" fromTop="1" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:InputText.cs" caret="187" fromTop="6" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Radio.cs" caret="125" fromTop="3" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Submit.cs" caret="101" fromTop="3" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Button.cs" caret="100" fromTop="3" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Checkbox.cs" caret="246" fromTop="6" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Input.cs" caret="191" fromTop="8" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:A.cs" caret="355" fromTop="11" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Img.cs" caret="323" fromTop="12" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:HtmlGeneric.cs" caret="169" fromTop="6" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:XControl.cs" caret="2859" fromTop="40" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Div.cs" caret="154" fromTop="8" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="290" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Control.cs" caret="2226" fromTop="26" />
-      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Control.cs" caret="2226" fromTop="89" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:HtmlGeneric.cs" caret="568" fromTop="22" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:HtmlGeneric.cs" caret="725" fromTop="27" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:XControl.cs" caret="200" fromTop="9" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:XControl.cs" caret="444" fromTop="15" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:HtmlGeneric.cs" caret="257" fromTop="11" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:XControl.cs" caret="35" fromTop="0" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:A.cs" caret="317" fromTop="10" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:XControl.cs" caret="557" fromTop="20" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:XControl.cs" caret="2525" fromTop="22" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:InputText.cs" caret="196" fromTop="19" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:InputText.cs" caret="106" fromTop="3" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:InputText.cs" caret="197" fromTop="9" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Checkbox.cs" caret="134" fromTop="4" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Radio.cs" caret="125" fromTop="3" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Submit.cs" caret="101" fromTop="3" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Button.cs" caret="100" fromTop="3" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="4760" fromTop="3" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="5916" fromTop="22" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="6237" fromTop="27" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:XControl.cs" caret="2614" fromTop="26" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Img.cs" caret="140" fromTop="4" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:Img.cs" caret="323" fromTop="12" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="1479" fromTop="18" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="2022" fromTop="34" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="7424" fromTop="38" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="7099" fromTop="25" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="7151" fromTop="26" />
+      <File id="34EF9E3E-E449-42EE-AC1D-A7F0664F157D/f:HtmlGeneric.cs" caret="169" fromTop="6" />
+      <File id="621772E1-0702-4BDA-B911-02D9EAB96CCD/f:ControlTest.cs" caret="6517" fromTop="14" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -26,4 +73,227 @@
     </NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="href" priority="1" />
+      <Item value="var" priority="0" />
+      <Item value="string" priority="18" />
+      <Item value="text" priority="12" />
+      <Item value="null" priority="16" />
+      <Item value="Attribute`0" priority="7" />
+      <Item value="_control" priority="7" />
+      <Item value="Assert`0" priority="14" />
+      <Item value="a" priority="0" />
+      <Item value="Test" priority="17" />
+      <Item value="TestFixture" priority="0" />
+      <Item value="public" priority="26" />
+      <Item value="void" priority="18" />
+      <Item value="A`0" priority="0" />
+      <Item value="new" priority="49" />
+      <Item value="A" priority="0" />
+      <Item value="this" priority="8" />
+      <Item value="params" priority="4" />
+      <Item value="Control`0" priority="1" />
+      <Item value="private" priority="5" />
+      <Item value="readonly" priority="0" />
+      <Item value="List&lt;XControl&gt;" priority="1" />
+      <Item value="_children" priority="4" />
+      <Item value="static" priority="2" />
+      <Item value="IList" priority="1" />
+      <Item value="T`0" priority="2" />
+      <Item value="foreach" priority="2" />
+      <Item value="list" priority="3" />
+      <Item value="item" priority="0" />
+      <Item value="Action`0" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="each" priority="0" />
+      <Item value="xControls" priority="11" />
+      <Item value="xc" priority="1" />
+      <Item value="XControl`0" priority="19" />
+      <Item value="return" priority="4" />
+      <Item value="html" priority="0" />
+      <Item value="Text`0" priority="14" />
+      <Item value="if" priority="4" />
+      <Item value="items" priority="0" />
+      <Item value="src" priority="0" />
+      <Item value="alt" priority="0" />
+      <Item value="Span" priority="1" />
+      <Item value="Span`0" priority="2" />
+      <Item value="span" priority="1" />
+      <Item value="P`0" priority="1" />
+      <Item value="H1" priority="0" />
+      <Item value="H1`0" priority="0" />
+      <Item value="base" priority="10" />
+      <Item value="StringSplitOptions`0" priority="0" />
+      <Item value="h1" priority="0" />
+      <Item value="H2`0" priority="0" />
+      <Item value="BR" priority="0" />
+      <Item value="br" priority="0" />
+      <Item value="protected" priority="4" />
+      <Item value="Table" priority="1" />
+      <Item value="table" priority="4" />
+      <Item value="Table`0" priority="2" />
+      <Item value="xControl" priority="9" />
+      <Item value="_parent" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="TR`0" priority="5" />
+      <Item value="UL" priority="0" />
+      <Item value="Li`0" priority="0" />
+      <Item value="ul" priority="0" />
+      <Item value="G" priority="0" />
+      <Item value="g" priority="0" />
+      <Item value="tag" priority="1" />
+      <Item value="HtmlGenericControl" priority="1" />
+      <Item value="Br" priority="0" />
+      <Item value="Br`0" priority="0" />
+      <Item value="Html`0" priority="0" />
+      <Item value="Strong" priority="0" />
+      <Item value="strong" priority="0" />
+      <Item value="Attributes`0" priority="1" />
+      <Item value="value" priority="5" />
+      <Item value="label" priority="0" />
+      <Item value="button" priority="0" />
+      <Item value="title" priority="0" />
+      <Item value="name" priority="2" />
+      <Item value="Fieldset" priority="0" />
+      <Item value="expected" priority="2" />
+      <Item value="htmlGenericControlSelfClose" priority="4" />
+      <Item value="HtmlGenericControlSelfClose" priority="1" />
+      <Item value="override" priority="3" />
+      <Item value="bool" priority="1" />
+      <Item value="SelfClose" priority="4" />
+      <Item value="writer" priority="19" />
+      <Item value="TagName" priority="3" />
+      <Item value="Attributes" priority="1" />
+      <Item value="HtmlTextWriter`0" priority="3" />
+      <Item value="tagName" priority="0" />
+      <Item value="true" priority="4" />
+      <Item value="HtmlGenericControlSelfClose`0" priority="2" />
+      <Item value="stringWriter" priority="3" />
+      <Item value="StringWriter" priority="0" />
+      <Item value="htmlTextWriter" priority="1" />
+      <Item value="HtmlTextWriter" priority="0" />
+      <Item value="selfClose" priority="2" />
+      <Item value="InnerHtml" priority="1" />
+      <Item value="InnerText" priority="0" />
+      <Item value="RenderChildren`0" priority="1" />
+      <Item value="Render`0" priority="1" />
+      <Item value="RenderAttributes`0" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="virtual" priority="1" />
+      <Item value="abstract" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="Input`0" priority="4" />
+      <Item value="genericControlSelfClose" priority="1" />
+      <Item value="Div`0" priority="0" />
+      <Item value="Div" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlGenericControl">
+      <Item value="InnerHtml" priority="1" />
+      <Item value="InnerText" priority="1" />
+      <Item value="Controls" priority="1" />
+      <Item value="RenderChildren`0" priority="0" />
+      <Item value="Render`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHtmlFluent.A">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="14" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="Foreach`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.ControlCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHtmlFluent.XControl">
+      <Item value="_control" priority="1" />
+      <Item value="_parent" priority="1" />
+      <Item value="Build`0" priority="0" />
+      <Item value="Properties`0" priority="1" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHTML.Test.Span">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHtmlFluent.Span">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHTML.Test.H1">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHtmlFluent.BR">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHTML.Test.Table">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHtmlFluent.Test.Table">
+      <Item value="Text`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHtmlFluent.Table">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHTML.Test.Li">
+      <Item value="Text`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHTML.Test.Ul">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHTML.Test.GenericTag">
+      <Item value="Text`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHTML.Test.Strong">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHtmlFluent.Strong">
+      <Item value="Text`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHTML.Test.FieldSet">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlTextWriter">
+      <Item value="Write`0" priority="5" />
+      <Item value="WriteEndTag`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.UI.HtmlTextWriter">
+      <Item value="TagLeftChar" priority="0" />
+      <Item value="SelfClosingTagEnd" priority="1" />
+      <Item value="TagRightChar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.AttributeCollection">
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHtmlFluent.HtmlGenericControlSelfClose">
+      <Item value="InnerHtml" priority="0" />
+      <Item value="RenderControl`0" priority="0" />
+      <Item value="Attributes" priority="0" />
+      <Item value="InnerText" priority="0" />
+      <Item value="SelfClose" priority="1" />
+      <Item value="HasControls`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StringWriter">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XHtmlFluent.Div">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

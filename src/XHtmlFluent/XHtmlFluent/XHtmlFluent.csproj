@@ -54,7 +54,6 @@
     <Compile Include="InputText.cs" />
     <Compile Include="Legend.cs" />
     <Compile Include="Li.cs" />
-    <Compile Include="ListExtension.cs" />
     <Compile Include="Option.cs" />
     <Compile Include="Radio.cs" />
     <Compile Include="Select.cs" />
