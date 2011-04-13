@@ -10,10 +10,10 @@ xml a partir do .Net Framework 3.5, onde usamos as classe:
 
 **Exemplo**
 Criação de um div com dois p dentro do div.
-'
+`
 XControl div = new Div("container", "css-class", new P(), new P());
 
 XControl div = new Div("container", "css-class")
 .Add(new P())
 .Add(new P());
-'
+`
