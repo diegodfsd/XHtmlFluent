@@ -1,0 +1,5 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent\XHtmlFluent\bin\Debug\XHtmlFluent.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent\XHtmlFluent\bin\Debug\XHtmlFluent.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent\XHtmlFluent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent\XHtmlFluent\obj\Debug\XHtmlFluent.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent\XHtmlFluent\obj\Debug\XHtmlFluent.pdb

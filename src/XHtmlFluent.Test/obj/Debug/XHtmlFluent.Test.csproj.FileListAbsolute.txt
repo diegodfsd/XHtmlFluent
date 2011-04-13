@@ -1,0 +1,9 @@
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent.Test\bin\Debug\XHtmlFluent.Test.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent.Test\bin\Debug\XHtmlFluent.Test.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent.Test\bin\Debug\XHtmlFluent.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent.Test\bin\Debug\XHtmlFluent.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent.Test\obj\Debug\XHtmlFluent.Test.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent.Test\obj\Debug\XHtmlFluent.Test.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent.Test\bin\Debug\nunit.framework.dll
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\XHtmlFluent\src\XHtmlFluent.Test\bin\Debug\nunit.framework.xml

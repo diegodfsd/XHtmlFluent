@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="34EF9E3E-E449-42EE-AC1D-A7F0664F157D" ModuleId="XHtmlFluent" />
+  <Module PersistentId="621772E1-0702-4BDA-B911-02D9EAB96CCD" ModuleId="XHtmlFluent.Test" />
+</Modules>
